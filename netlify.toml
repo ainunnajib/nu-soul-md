@@ -1,7 +1,8 @@
 [build]
   publish = "."
 
-[[redirects]]
-  from = "/"
-  to = "/SOUL.html"
-  status = 200
+# Headers for proper Arabic text rendering
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
