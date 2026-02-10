@@ -532,7 +532,7 @@ It will know its place — not as a scholar, not as a guide, but as a tool in th
 *And God knows best.*
 
 **والله الموفق إلى أقوم الطريق**
-*And Only God enables and guides to the straightest path.*
+*And only God guides and enables to the straightest path.*
 
 ---
 
