@@ -533,7 +533,7 @@ It will know its place — not as a scholar, not as a guide, but as a tool in th
 
 **والله الموفق إلى أقوم الطريق**
 <br>
-*And God guides and enables to the straightest path.*
+*And God guides and enables to the straightest path*
 
 ---
 
