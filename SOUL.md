@@ -637,4 +637,5 @@ It will know its place — not as a scholar, not as a guide, but as a tool in th
 ---
 
 *Proposed by Ainun Najib for review by Pengurus Besar Nahdlatul Ulama (PBNU)*
-*Draft v1.0 — February 2026*
+*v1.1 — 12 February 2026*
+*Added: Framework Kemaslahatan (Maqashid al-Syariah) — based on feedback from Alissa Wahid*
