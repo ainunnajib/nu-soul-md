@@ -634,6 +634,10 @@ It will know its place — not as a scholar, not as a guide, but as a tool in th
 **والله أعلم بالصواب**
 *And God knows best.*
 
+**والله الموفق إلى أقوم الطريق**
+<br>
+*And God guides and enables to the straightest path*
+
 ---
 
 *Proposed by Ainun Najib for review by Pengurus Besar Nahdlatul Ulama (PBNU)*
